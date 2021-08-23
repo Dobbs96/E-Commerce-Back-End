@@ -19,21 +19,10 @@ For more information please check [GitHub Licensing](https://docs.github.com/en/
 
 ## Tests
 
-Getting started!
-
 ![How to start Video](./assets/Getting_Started.gif)
 
-http://localhost:3001/api/categories
-
-![How to navigate Categories Video](./assets/Categories.gif)
-
-http://localhost:3001/api/products
-
-![How to navigate Products Video](./assets/Products.gif)
-
-http://localhost:3001/api/tags
-
-![How to navigate Tags Video](./assets/Tags.gif)
+[Click here](https://drive.google.com/file/d/1Brsu3aSgy5UyfeCFNjNDTYfUPhGARyuJ/view) for full video.
+Download for best Quality!
 
 ## Questions
 
